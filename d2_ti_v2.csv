@@ -1,0 +1,242 @@
+team_id;match_id;data;league_name;league_tier;radiant_team;dire_team;time_lado;time_venceu;radiant_kills;dire_kills;torres_destruidas_radiant;torres_destruidas_dire;barracks_destruidas_radiant;barracks_destruidas_dire;roshans_radiant;roshans_dire;duration_min
+9651185;8143668956;24/01/2025;FISSURE PLAYGROUND 1 - Dota;professional;Wildcard;BB Team;Radiant;FALSO;13;35;3;9;0;1;0;1;375
+9651185;8146556130;26/01/2025;FISSURE PLAYGROUND 1 - Dota;professional;Wildcard;Tundra Esports;Radiant;FALSO;15;44;2;8;0;4;0;2;282
+9651185;8205418745;08/03/2025;PGL Wallachia 2025 Season 3;professional;Wildcard;Aurora Gaming;Radiant;FALSO;6;39;1;9;0;4;0;2;337
+9651185;8208324872;10/03/2025;PGL Wallachia 2025 Season 3;professional;Wildcard;Team Tidebound;Radiant;FALSO;8;36;2;8;0;4;0;3;404
+9651185;8209590208;11/03/2025;PGL Wallachia 2025 Season 3;professional;Wildcard;HEROIC;Radiant;FALSO;37;35;6;11;0;6;0;5;623
+36;8211043335;12/03/2025;PGL Wallachia 2025 Season 3;professional;Tundra Esports;Natus Vincere;Dire;FALSO;34;8;7;0;2;0;1;0;217
+9651185;8224205942;22/03/2025;FISSURE Universe Episode 4;professional;Wildcard;Team Liquid;Radiant;FALSO;7;26;3;8;0;2;0;1;354
+9651185;8228484910;25/03/2025;FISSURE Universe Episode 4;professional;Wildcard;BOOM Esports;Radiant;FALSO;8;16;5;9;0;6;0;1;364
+36;8239410626;02/04/2025;DreamLeague Season 26 Qualifiers;professional;Aurora Gaming;Natus Vincere;Dire;VERDADEIRO;44;51;8;11;2;4;3;1;588
+9303484;8247437946;08/04/2025;ESL One Raleigh 2025;professional;BB Team;HEROIC;Dire;FALSO;20;6;10;0;4;0;1;0;249
+9303484;8248399016;09/04/2025;ESL One Raleigh 2025;professional;Tundra Esports;HEROIC;Dire;FALSO;18;8;9;3;4;0;1;1;325
+9017006;8261832223;20/04/2025;PGL Wallachia 2025 Season 4;professional;NAVI Junior;BB Team;Radiant;FALSO;9;37;1;9;0;2;0;2;385
+9017006;8264431247;22/04/2025;PGL Wallachia 2025 Season 4;professional;NAVI Junior;Nigma Galaxy;Radiant;VERDADEIRO;29;27;11;9;4;4;2;3;606
+9017006;8264388384;22/04/2025;PGL Wallachia 2025 Season 4;professional;Nigma Galaxy;NAVI Junior;Dire;VERDADEIRO;22;26;4;9;0;4;0;2;373
+9017006;8265699842;23/04/2025;PGL Wallachia 2025 Season 4;professional;NAVI Junior;Team Falcons;Radiant;VERDADEIRO;18;14;8;4;4;0;3;0;398
+9017006;8265651162;23/04/2025;PGL Wallachia 2025 Season 4;professional;Team Falcons;NAVI Junior;Dire;VERDADEIRO;19;30;3;10;0;6;1;1;404
+9303484;8265765707;23/04/2025;PGL Wallachia 2025 Season 4;professional;Aurora Gaming;HEROIC;Dire;FALSO;32;12;9;2;6;0;1;0;329
+9017006;8266865035;24/04/2025;PGL Wallachia 2025 Season 4;professional;NAVI Junior;Team Spirit;Radiant;FALSO;7;29;2;9;0;4;0;2;386
+9017006;8266926541;24/04/2025;PGL Wallachia 2025 Season 4;professional;Team Spirit;NAVI Junior;Dire;FALSO;39;7;8;0;4;0;1;0;306
+9017006;8267941933;25/04/2025;PGL Wallachia 2025 Season 4;professional;Tundra Esports;NAVI Junior;Dire;FALSO;45;25;11;7;6;1;3;1;528
+9017006;8267884608;25/04/2025;PGL Wallachia 2025 Season 4;professional;Tundra Esports;NAVI Junior;Dire;FALSO;28;47;11;7;6;3;2;2;602
+9017006;8299465396;19/05/2025;DreamLeague Season 26;professional;NAVI Junior;Yakult Brothers;Radiant;FALSO;8;22;2;6;0;0;1;0;257
+9017006;8299396751;19/05/2025;DreamLeague Season 26;professional;Yakult Brothers;NAVI Junior;Dire;VERDADEIRO;6;17;3;8;0;2;0;1;298
+7732977;8299593219;19/05/2025;DreamLeague Season 26;professional;BOOM Esports;Aurora Gaming;Radiant;FALSO;16;40;3;8;0;4;0;1;436
+7732977;8299699153;19/05/2025;DreamLeague Season 26;professional;Aurora Gaming;BOOM Esports;Dire;FALSO;29;15;9;3;5;0;1;1;317
+7732977;8299320379;19/05/2025;DreamLeague Season 26;professional;Xtreme Gaming;BOOM Esports;Dire;FALSO;24;16;8;3;4;0;1;0;349
+9017006;8302230033;21/05/2025;DreamLeague Season 26;professional;NAVI Junior;PVISION;Radiant;FALSO;29;32;7;9;0;2;1;2;450
+9017006;8301774902;21/05/2025;DreamLeague Season 26;professional;NAVI Junior;Gaimin Gladiators;Radiant;VERDADEIRO;34;12;9;4;5;0;2;0;376
+9017006;8302161579;21/05/2025;DreamLeague Season 26;professional;PVISION;NAVI Junior;Dire;FALSO;14;6;7;3;4;0;1;0;269
+9017006;8301864945;21/05/2025;DreamLeague Season 26;professional;Gaimin Gladiators;NAVI Junior;Dire;VERDADEIRO;3;42;2;7;0;2;0;1;337
+7732977;8302012922;21/05/2025;DreamLeague Season 26;professional;BOOM Esports;Team Liquid;Radiant;FALSO;31;31;8;11;2;6;1;2;601
+7732977;8301679243;21/05/2025;DreamLeague Season 26;professional;BOOM Esports;Nigma Galaxy;Radiant;FALSO;14;40;2;9;0;5;0;3;394
+7732977;8302141060;21/05/2025;DreamLeague Season 26;professional;Team Liquid;BOOM Esports;Dire;FALSO;40;20;10;4;4;0;3;0;504
+7732977;8301640076;21/05/2025;DreamLeague Season 26;professional;Nigma Galaxy;BOOM Esports;Dire;FALSO;24;8;7;1;4;0;1;0;235
+9351740;8302303861;21/05/2025;DreamLeague Season 26;professional;Gaimin Gladiators;Yakult Brothers;Dire;VERDADEIRO;34;58;9;11;4;6;2;5;979
+9017006;8303049436;22/05/2025;DreamLeague Season 26;professional;NAVI Junior;Team Falcons;Radiant;FALSO;7;35;3;11;0;6;0;2;355
+9017006;8302954023;22/05/2025;DreamLeague Season 26;professional;Team Falcons;NAVI Junior;Dire;VERDADEIRO;25;35;7;11;0;6;1;2;457
+7732977;8302886610;22/05/2025;DreamLeague Season 26;professional;BOOM Esports;BB Team;Radiant;FALSO;25;24;4;9;0;6;0;1;388
+7732977;8302823263;22/05/2025;DreamLeague Season 26;professional;BOOM Esports;BB Team;Radiant;FALSO;20;27;6;10;0;4;1;2;450
+9247354;8303335846;22/05/2025;DreamLeague Season 26;professional;Team Falcons;Gaimin Gladiators;Radiant;FALSO;11;30;1;7;0;2;1;1;266
+9351740;8304347724;23/05/2025;DreamLeague Season 26;professional;Team Liquid;Yakult Brothers;Dire;VERDADEIRO;37;57;6;9;2;6;2;3;640
+9351740;8309099900;26/05/2025;DreamLeague Season 26;professional;Gaimin Gladiators;Yakult Brothers;Dire;VERDADEIRO;9;39;2;7;0;2;0;2;323
+9351740;8311170339;28/05/2025;DreamLeague Season 26;professional;Yakult Brothers;Aurora Gaming;Radiant;FALSO;15;21;6;9;0;0;0;2;390
+9351740;8311243348;28/05/2025;DreamLeague Season 26;professional;Aurora Gaming;Yakult Brothers;Dire;FALSO;18;23;6;6;2;0;1;2;455
+9351740;8312730139;29/05/2025;DreamLeague Season 26;professional;Yakult Brothers;BB Team;Radiant;FALSO;28;30;7;9;1;6;1;2;449
+9351740;8312622965;29/05/2025;DreamLeague Season 26;professional;BB Team;Yakult Brothers;Dire;FALSO;28;17;8;3;3;0;1;1;355
+7554697;8313000571;29/05/2025;DreamLeague Season 26;professional;Nigma Galaxy;Aurora Gaming;Radiant;FALSO;17;26;5;11;2;6;1;1;391
+9467224;8314368342;30/05/2025;DreamLeague Season 26;professional;Aurora Gaming;Gaimin Gladiators;Radiant;FALSO;20;37;2;11;0;6;0;1;363
+8255888;8315806434;31/05/2025;DreamLeague Season 26;professional;BB Team;PVISION;Radiant;FALSO;4;18;3;6;0;2;0;1;280
+8255888;8317288887;01/06/2025;DreamLeague Season 26;professional;BB Team;PVISION;Radiant;FALSO;23;21;5;11;0;6;1;2;478
+8255888;8317181521;01/06/2025;DreamLeague Season 26;professional;BB Team;PVISION;Radiant;FALSO;15;22;6;8;0;0;1;1;365
+8255888;8317092630;01/06/2025;DreamLeague Season 26;professional;BB Team;PVISION;Radiant;FALSO;8;31;3;6;0;2;0;2;298
+9351740;8330333113;11/06/2025;Road To The International 2025 - Regional Qualifiers China;professional;Yakult Brothers;Xtreme Gaming;Radiant;FALSO;19;36;5;9;0;6;1;2;461
+9351740;8330293034;11/06/2025;Road To The International 2025 - Regional Qualifiers China;professional;Yakult Brothers;Xtreme Gaming;Radiant;FALSO;35;29;9;11;2;6;0;2;214
+9351740;8330168409;11/06/2025;Road To The International 2025 - Regional Qualifiers China;professional;Yakult Brothers;Xtreme Gaming;Radiant;FALSO;31;25;7;11;0;6;1;2;457
+9351740;8330108311;11/06/2025;Road To The International 2025 - Regional Qualifiers China;professional;Xtreme Gaming;Yakult Brothers;Dire;VERDADEIRO;16;29;3;7;0;4;0;3;417
+9351740;8331584762;12/06/2025;Road To The International 2025 - Regional Qualifiers China;professional;Yakult Brothers;Xtreme Gaming;Radiant;FALSO;10;30;1;7;0;2;0;1;289
+9351740;8331423632;12/06/2025;Road To The International 2025 - Regional Qualifiers China;professional;Yakult Brothers;Xtreme Gaming;Radiant;FALSO;14;23;3;9;0;4;1;1;388
+9351740;8331488821;12/06/2025;Road To The International 2025 - Regional Qualifiers China;professional;Xtreme Gaming;Yakult Brothers;Dire;FALSO;18;19;9;9;2;3;2;0;515
+9017006;8334639378;14/06/2025;Road To The International 2025 - Regional Qualifiers Western Europe;professional;NAVI Junior;Nigma Galaxy;Radiant;VERDADEIRO;28;14;9;2;5;0;2;0;313
+9017006;8334548587;14/06/2025;Road To The International 2025 - Regional Qualifiers Western Europe;professional;NAVI Junior;Nigma Galaxy;Radiant;FALSO;8;35;0;9;0;2;0;2;348
+9017006;8334410372;14/06/2025;Road To The International 2025 - Regional Qualifiers Western Europe;professional;Nigma Galaxy;NAVI Junior;Dire;VERDADEIRO;19;33;8;8;2;4;2;2;539
+7732977;8334406829;14/06/2025;Road To The International 2025 - Regional Qualifiers Southeast Asia;professional;BOOM Esports;Team Nemesis;Radiant;FALSO;5;25;4;7;0;2;1;0;361
+7732977;8334221847;14/06/2025;Road To The International 2025 - Regional Qualifiers Southeast Asia;professional;BOOM Esports;Team Nemesis;Radiant;FALSO;8;25;3;7;0;4;0;1;323
+7732977;8334298178;14/06/2025;Road To The International 2025 - Regional Qualifiers Southeast Asia;professional;Team Nemesis;BOOM Esports;Dire;VERDADEIRO;17;26;5;11;0;6;0;3;503
+9651185;8344225364;21/06/2025;PGL Wallachia 2025 Season 5;professional;Team Spirit;Wildcard;Dire;FALSO;30;5;10;1;4;0;1;0;319
+9651185;8344143132;21/06/2025;PGL Wallachia 2025 Season 5;professional;Team Spirit;Wildcard;Dire;FALSO;25;11;6;1;2;0;2;0;296
+9651185;8344053978;21/06/2025;PGL Wallachia 2025 Season 5;professional;Team Spirit;Wildcard;Dire;VERDADEIRO;18;36;4;9;0;6;0;2;419
+2163;8343820821;21/06/2025;PGL Wallachia 2025 Season 5;professional;HEROIC;Team Liquid;Dire;VERDADEIRO;24;25;4;11;0;4;1;1;421
+9303484;8343936640;21/06/2025;PGL Wallachia 2025 Season 5;professional;Team Liquid;HEROIC;Dire;FALSO;50;23;11;2;6;0;2;0;406
+9303484;8343705315;21/06/2025;PGL Wallachia 2025 Season 5;professional;Team Liquid;HEROIC;Dire;VERDADEIRO;22;40;5;9;0;2;0;3;494
+7554697;8344105841;21/06/2025;PGL Wallachia 2025 Season 5;professional;Nigma Galaxy;Natus Vincere;Radiant;VERDADEIRO;20;4;8;3;3;0;1;0;291
+36;8344181922;21/06/2025;PGL Wallachia 2025 Season 5;professional;Natus Vincere;Nigma Galaxy;Radiant;VERDADEIRO;46;38;11;4;6;0;4;0;556
+9651185;8345336921;22/06/2025;PGL Wallachia 2025 Season 5;professional;HEROIC;Wildcard;Dire;VERDADEIRO;23;33;3;7;0;0;0;1;364
+9651185;8345245687;22/06/2025;PGL Wallachia 2025 Season 5;professional;HEROIC;Wildcard;Dire;FALSO;23;4;8;2;4;0;1;0;316
+9651185;8345140225;22/06/2025;PGL Wallachia 2025 Season 5;professional;HEROIC;Wildcard;Dire;VERDADEIRO;17;33;5;11;0;6;1;2;498
+9467224;8345339046;22/06/2025;PGL Wallachia 2025 Season 5;professional;Aurora Gaming;Xtreme Gaming;Radiant;VERDADEIRO;30;13;7;4;4;0;1;0;332
+2163;8345062950;22/06/2025;PGL Wallachia 2025 Season 5;professional;Natus Vincere;Team Liquid;Dire;VERDADEIRO;21;54;3;11;0;5;1;1;440
+36;8345152574;22/06/2025;PGL Wallachia 2025 Season 5;professional;Team Liquid;Natus Vincere;Dire;VERDADEIRO;25;34;1;11;0;6;0;1;330
+36;8344986665;22/06/2025;PGL Wallachia 2025 Season 5;professional;Team Liquid;Natus Vincere;Dire;VERDADEIRO;12;33;2;9;0;4;0;2;364
+9651185;8346288794;23/06/2025;PGL Wallachia 2025 Season 5;professional;Wildcard;Team Tidebound;Radiant;FALSO;15;16;3;9;0;6;0;2;375
+9651185;8346334592;23/06/2025;PGL Wallachia 2025 Season 5;professional;Team Tidebound;Wildcard;Dire;FALSO;25;3;8;3;2;0;2;0;294
+8261500;8346321736;23/06/2025;PGL Wallachia 2025 Season 5;professional;BB Team;Xtreme Gaming;Dire;FALSO;34;21;11;2;1;0;2;0;430
+36;8346781135;23/06/2025;PGL Wallachia 2025 Season 5;professional;Natus Vincere;Team Spirit;Radiant;FALSO;16;40;3;9;0;6;1;1;345
+36;8346867930;23/06/2025;PGL Wallachia 2025 Season 5;professional;Team Spirit;Natus Vincere;Dire;FALSO;45;44;6;11;2;6;2;2;561
+36;8346674422;23/06/2025;PGL Wallachia 2025 Season 5;professional;Team Spirit;Natus Vincere;Dire;VERDADEIRO;22;35;4;11;0;6;1;2;494
+9467224;8347555793;24/06/2025;PGL Wallachia 2025 Season 5;professional;Aurora Gaming;Tundra Esports;Radiant;VERDADEIRO;29;21;8;4;3;0;0;1;348
+2163;8347812621;24/06/2025;PGL Wallachia 2025 Season 5;professional;Team Tidebound;Team Liquid;Dire;VERDADEIRO;37;23;8;10;0;4;3;1;545
+2163;8347728041;24/06/2025;PGL Wallachia 2025 Season 5;professional;Team Tidebound;Team Liquid;Dire;VERDADEIRO;28;30;8;7;2;2;3;1;540
+8261500;8347641930;24/06/2025;PGL Wallachia 2025 Season 5;professional;Nigma Galaxy;Xtreme Gaming;Dire;VERDADEIRO;50;36;9;11;3;6;2;2;656
+36;8348169109;24/06/2025;PGL Wallachia 2025 Season 5;professional;Natus Vincere;BB Team;Radiant;VERDADEIRO;34;12;8;1;4;0;1;0;331
+36;8348061758;24/06/2025;PGL Wallachia 2025 Season 5;professional;Natus Vincere;BB Team;Radiant;FALSO;39;28;11;8;6;0;3;0;507
+36;8347930251;24/06/2025;PGL Wallachia 2025 Season 5;professional;Natus Vincere;BB Team;Radiant;VERDADEIRO;40;31;8;6;2;2;4;0;614
+9651185;8348928549;25/06/2025;PGL Wallachia 2025 Season 5;professional;Tundra Esports;Wildcard;Dire;FALSO;38;11;8;1;2;0;2;0;341
+9651185;8348856467;25/06/2025;PGL Wallachia 2025 Season 5;professional;Tundra Esports;Wildcard;Dire;VERDADEIRO;30;31;9;11;3;1;3;1;600
+9651185;8348814462;25/06/2025;PGL Wallachia 2025 Season 5;professional;Tundra Esports;Wildcard;Dire;FALSO;27;15;9;3;6;0;2;0;371
+8261500;8349062942;25/06/2025;PGL Wallachia 2025 Season 5;professional;HEROIC;Xtreme Gaming;Dire;VERDADEIRO;28;37;8;11;1;6;2;2;614
+9303484;8348987197;25/06/2025;PGL Wallachia 2025 Season 5;professional;Xtreme Gaming;HEROIC;Dire;FALSO;39;33;11;4;6;0;2;0;445
+8255888;8349178884;25/06/2025;PGL Wallachia 2025 Season 5;professional;BB Team;Team Tidebound;Radiant;VERDADEIRO;40;17;9;3;4;0;2;0;409
+8261500;8350256686;26/06/2025;PGL Wallachia 2025 Season 5;professional;Natus Vincere;Xtreme Gaming;Dire;FALSO;27;20;8;3;2;0;2;0;390
+36;8350406925;26/06/2025;PGL Wallachia 2025 Season 5;professional;Xtreme Gaming;Natus Vincere;Dire;FALSO;32;33;7;10;2;4;3;1;535
+36;8350324469;26/06/2025;PGL Wallachia 2025 Season 5;professional;Xtreme Gaming;Natus Vincere;Dire;FALSO;32;22;11;6;6;1;1;1;397
+7119388;8350860469;26/06/2025;PGL Wallachia 2025 Season 5;professional;BB Team;Team Spirit;Dire;FALSO;27;11;9;1;6;0;2;0;338
+8291895;8350191116;26/06/2025;PGL Wallachia 2025 Season 5;professional;Tundra Esports;Gaimin Gladiators;Radiant;FALSO;13;24;6;8;0;0;1;1;401
+8261500;8351671662;27/06/2025;PGL Wallachia 2025 Season 5;professional;Gaimin Gladiators;Xtreme Gaming;Dire;FALSO;23;10;10;4;6;0;1;1;412
+36;8351333765;27/06/2025;PGL Wallachia 2025 Season 5;professional;Natus Vincere;Tundra Esports;Radiant;VERDADEIRO;27;21;9;2;6;0;2;0;325
+36;8351376797;27/06/2025;PGL Wallachia 2025 Season 5;professional;Tundra Esports;Natus Vincere;Dire;VERDADEIRO;32;42;2;11;0;6;0;2;419
+2163;8353058756;28/06/2025;PGL Wallachia 2025 Season 5;professional;Gaimin Gladiators;Team Liquid;Dire;FALSO;36;20;8;3;4;0;0;1;357
+8261500;8352677382;28/06/2025;PGL Wallachia 2025 Season 5;professional;Team Spirit;Xtreme Gaming;Dire;FALSO;44;13;10;2;6;0;2;0;439
+36;8352883265;28/06/2025;PGL Wallachia 2025 Season 5;professional;Natus Vincere;BB Team;Radiant;FALSO;16;41;4;9;0;1;1;1;347
+36;8352813519;28/06/2025;PGL Wallachia 2025 Season 5;professional;Natus Vincere;BB Team;Radiant;FALSO;17;31;2;6;0;2;1;1;409
+7119388;8352741566;28/06/2025;PGL Wallachia 2025 Season 5;professional;Xtreme Gaming;Team Spirit;Dire;VERDADEIRO;15;33;3;9;0;4;0;3;444
+8599101;8354480694;29/06/2025;PGL Wallachia 2025 Season 5;professional;BB Team;Gaimin Gladiators;Dire;FALSO;41;10;8;1;3;0;2;0;304
+8255888;8354699290;29/06/2025;PGL Wallachia 2025 Season 5;professional;Gaimin Gladiators;BB Team;Dire;VERDADEIRO;25;60;9;10;4;4;1;4;652
+8255888;8354567282;29/06/2025;PGL Wallachia 2025 Season 5;professional;Gaimin Gladiators;BB Team;Dire;FALSO;32;20;8;8;2;2;2;1;539
+8255888;8354382213;29/06/2025;PGL Wallachia 2025 Season 5;professional;Gaimin Gladiators;BB Team;Dire;VERDADEIRO;14;30;2;8;0;4;0;2;400
+8255888;8354257768;29/06/2025;PGL Wallachia 2025 Season 5;professional;Team Liquid;BB Team;Dire;VERDADEIRO;10;37;3;9;0;4;0;1;293
+8599101;8356968129;01/07/2025;FISSURE Universe Episode 5;professional;Team Tidebound;Gaimin Gladiators;Dire;FALSO;21;6;8;1;4;0;1;0;294
+9303484;8357540811;01/07/2025;FISSURE Universe Episode 5;professional;HEROIC;Aurora Gaming;Radiant;VERDADEIRO;55;18;11;2;4;0;3;0;531
+9303484;8357451478;01/07/2025;FISSURE Universe Episode 5;professional;HEROIC;Aurora Gaming;Radiant;FALSO;20;30;5;8;0;2;1;2;470
+7554697;8356919543;01/07/2025;FISSURE Universe Episode 5;professional;Nigma Galaxy;Aurora Gaming;Radiant;FALSO;31;37;9;8;4;2;3;1;525
+7554697;8356842676;01/07/2025;FISSURE Universe Episode 5;professional;Nigma Galaxy;Aurora Gaming;Radiant;VERDADEIRO;45;23;11;6;6;0;4;0;532
+8599101;8358152281;02/07/2025;FISSURE Universe Episode 5;professional;Gaimin Gladiators;PVISION;Radiant;FALSO;16;33;3;8;0;4;0;1;332
+2163;8358833141;02/07/2025;FISSURE Universe Episode 5;professional;HEROIC;Team Liquid;Dire;VERDADEIRO;19;36;8;11;0;6;0;3;423
+9303484;8358161258;02/07/2025;FISSURE Universe Episode 5;professional;HEROIC;Nigma Galaxy;Radiant;VERDADEIRO;40;12;8;1;4;0;1;0;311
+9303484;8358768820;02/07/2025;FISSURE Universe Episode 5;professional;Team Liquid;HEROIC;Dire;FALSO;43;23;11;0;6;0;1;0;288
+9303484;8358107425;02/07/2025;FISSURE Universe Episode 5;professional;Nigma Galaxy;HEROIC;Dire;VERDADEIRO;22;37;3;5;0;0;0;2;408
+9640842;8358663474;02/07/2025;FISSURE Universe Episode 5;professional;PVISION;Team Tidebound;Dire;FALSO;32;23;8;4;4;0;2;1;426
+9640842;8358580866;02/07/2025;FISSURE Universe Episode 5;professional;PVISION;Team Tidebound;Dire;FALSO;18;21;8;3;4;0;2;0;361
+9467224;8360095741;03/07/2025;FISSURE Universe Episode 5;professional;HEROIC;Aurora Gaming;Dire;VERDADEIRO;34;49;8;11;2;6;3;1;638
+9303484;8360037549;03/07/2025;FISSURE Universe Episode 5;professional;HEROIC;Aurora Gaming;Radiant;VERDADEIRO;29;8;8;1;3;0;1;0;233
+9303484;8359964297;03/07/2025;FISSURE Universe Episode 5;professional;HEROIC;Aurora Gaming;Radiant;FALSO;13;39;2;8;0;4;0;2;325
+9303484;8359558776;03/07/2025;FISSURE Universe Episode 5;professional;HEROIC;Team Tidebound;Radiant;VERDADEIRO;22;16;8;3;4;0;2;1;424
+9303484;8359658954;03/07/2025;FISSURE Universe Episode 5;professional;Team Tidebound;HEROIC;Dire;VERDADEIRO;32;36;6;11;2;6;2;3;625
+9572001;8359874584;03/07/2025;FISSURE Universe Episode 5;professional;Team Liquid;PVISION;Dire;FALSO;29;9;8;2;2;0;2;0;273
+9467224;8360916524;04/07/2025;FISSURE Universe Episode 5;professional;Aurora Gaming;PVISION;Radiant;FALSO;32;29;8;10;2;4;1;3;543
+9467224;8360808933;04/07/2025;FISSURE Universe Episode 5;professional;PVISION;Aurora Gaming;Dire;FALSO;22;15;10;5;4;2;2;0;366
+9572001;8361323379;04/07/2025;FISSURE Universe Episode 5;professional;Team Liquid;PVISION;Dire;FALSO;29;19;7;3;4;0;2;0;364
+9572001;8361247591;04/07/2025;FISSURE Universe Episode 5;professional;Team Liquid;PVISION;Dire;FALSO;31;9;7;0;2;0;1;0;259
+9572001;8361154029;04/07/2025;FISSURE Universe Episode 5;professional;Team Liquid;PVISION;Dire;FALSO;21;17;11;3;6;0;3;0;468
+8261500;8366137206;08/07/2025;Esports World Cup 2025;professional;Team Spirit;Xtreme Gaming;Dire;FALSO;26;13;9;2;5;0;2;1;470
+7119388;8366201264;08/07/2025;Esports World Cup 2025;professional;Xtreme Gaming;Team Spirit;Dire;FALSO;37;23;9;4;6;0;1;1;457
+9467224;8367847252;09/07/2025;Esports World Cup 2025;professional;Aurora Gaming;Tundra Esports;Radiant;VERDADEIRO;31;8;10;4;4;0;2;0;362
+9467224;8367738011;09/07/2025;Esports World Cup 2025;professional;Aurora Gaming;Tundra Esports;Radiant;FALSO;26;31;7;10;4;3;1;1;473
+8599101;8368811646;10/07/2025;Esports World Cup 2025;professional;Gaimin Gladiators;Team Falcons;Radiant;VERDADEIRO;34;9;10;2;4;0;1;0;322
+8599101;8368746002;10/07/2025;Esports World Cup 2025;professional;Gaimin Gladiators;Team Falcons;Radiant;FALSO;15;30;2;8;0;3;0;1;322
+9467224;8370281197;11/07/2025;Esports World Cup 2025;professional;Aurora Gaming;Tundra Esports;Radiant;VERDADEIRO;28;12;7;3;3;0;1;0;318
+9467224;8370455176;11/07/2025;Esports World Cup 2025;professional;Tundra Esports;Aurora Gaming;Dire;VERDADEIRO;27;36;3;11;0;4;0;3;539
+9467224;8370366920;11/07/2025;Esports World Cup 2025;professional;Tundra Esports;Aurora Gaming;Dire;FALSO;42;13;10;2;4;0;1;0;393
+2163;8369970041;11/07/2025;Esports World Cup 2025;professional;HEROIC;Team Liquid;Dire;VERDADEIRO;19;33;4;8;0;2;1;2;439
+9303484;8370052252;11/07/2025;Esports World Cup 2025;professional;Team Liquid;HEROIC;Dire;VERDADEIRO;20;49;3;8;0;2;1;1;441
+8599101;8376562101;16/07/2025;Esports World Cup 2025;professional;Gaimin Gladiators;Team Spirit;Radiant;FALSO;11;21;4;7;0;4;0;2;390
+8599101;8376447504;16/07/2025;Esports World Cup 2025;professional;Team Spirit;Gaimin Gladiators;Dire;FALSO;36;37;9;9;4;4;0;5;650
+2163;8378089737;17/07/2025;Esports World Cup 2025;professional;Team Liquid;Team Falcons;Radiant;FALSO;12;38;2;10;0;6;0;2;392
+2163;8377943264;17/07/2025;Esports World Cup 2025;professional;Team Liquid;Team Falcons;Radiant;FALSO;13;30;2;9;0;1;0;2;391
+9247354;8379310046;18/07/2025;Esports World Cup 2025;professional;Team Falcons;Tundra Esports;Radiant;VERDADEIRO;50;47;11;5;6;0;3;2;803
+8291895;8379168521;18/07/2025;Esports World Cup 2025;professional;Tundra Esports;Team Falcons;Radiant;FALSO;24;25;5;9;0;4;1;1;443
+9247354;8380808771;19/07/2025;Esports World Cup 2025;professional;Team Spirit;Team Falcons;Dire;FALSO;48;13;8;2;3;0;2;0;355
+7119388;8380698536;19/07/2025;Esports World Cup 2025;professional;Team Spirit;Team Falcons;Radiant;VERDADEIRO;25;9;9;2;6;0;1;1;405
+7119388;8380533654;19/07/2025;Esports World Cup 2025;professional;Team Spirit;Team Falcons;Radiant;VERDADEIRO;22;14;9;3;6;0;3;0;397
+8599101;8393651518;28/07/2025;Clavision DOTA2 Masters 2025: Snow-Ruyi;professional;Yakult Brothers;Gaimin Gladiators;Dire;VERDADEIRO;7;27;3;6;0;2;0;1;319
+7732977;8393647341;28/07/2025;Clavision DOTA2 Masters 2025: Snow-Ruyi;professional;BOOM Esports;Tundra Esports;Radiant;FALSO;21;26;5;9;0;4;1;1;392
+7732977;8392483273;28/07/2025;Clavision DOTA2 Masters 2025: Snow-Ruyi;professional;BOOM Esports;Nigma Galaxy;Radiant;FALSO;17;30;3;10;0;4;0;2;397
+7732977;8392438234;28/07/2025;Clavision DOTA2 Masters 2025: Snow-Ruyi;professional;BOOM Esports;Nigma Galaxy;Radiant;FALSO;14;25;2;9;0;4;0;2;399
+9351740;8392421360;28/07/2025;Clavision DOTA2 Masters 2025: Snow-Ruyi;professional;Yakult Brothers;Team Tidebound;Radiant;FALSO;5;23;0;7;0;2;0;1;234
+9351740;8392385254;28/07/2025;Clavision DOTA2 Masters 2025: Snow-Ruyi;professional;Team Tidebound;Yakult Brothers;Dire;FALSO;27;15;7;4;4;0;2;0;304
+9572001;8392541266;28/07/2025;Clavision DOTA2 Masters 2025: Snow-Ruyi;professional;Xtreme Gaming;PVISION;Dire;FALSO;23;17;9;8;1;3;2;2;582
+8599101;8393686593;29/07/2025;Clavision DOTA2 Masters 2025: Snow-Ruyi;professional;Gaimin Gladiators;Yakult Brothers;Radiant;VERDADEIRO;16;17;8;5;2;0;0;2;329
+7732977;8393728241;29/07/2025;Clavision DOTA2 Masters 2025: Snow-Ruyi;professional;Tundra Esports;BOOM Esports;Dire;FALSO;24;10;8;2;4;0;1;0;295
+7732977;8393691152;29/07/2025;Clavision DOTA2 Masters 2025: Snow-Ruyi;professional;Tundra Esports;BOOM Esports;Dire;VERDADEIRO;13;35;5;11;0;6;1;2;424
+8261500;8394236611;29/07/2025;Clavision DOTA2 Masters 2025: Snow-Ruyi;professional;Xtreme Gaming;Tundra Esports;Radiant;FALSO;14;30;1;9;0;6;0;2;288
+8261500;8394149145;29/07/2025;Clavision DOTA2 Masters 2025: Snow-Ruyi;professional;Xtreme Gaming;Tundra Esports;Radiant;VERDADEIRO;34;10;6;5;0;0;1;0;348
+8261500;8394056329;29/07/2025;Clavision DOTA2 Masters 2025: Snow-Ruyi;professional;Xtreme Gaming;Tundra Esports;Radiant;FALSO;13;25;6;9;2;6;1;1;330
+8261500;8393873756;29/07/2025;Clavision DOTA2 Masters 2025: Snow-Ruyi;professional;Xtreme Gaming;Nigma Galaxy;Radiant;FALSO;5;30;2;10;0;6;0;2;356
+8261500;8393819593;29/07/2025;Clavision DOTA2 Masters 2025: Snow-Ruyi;professional;Nigma Galaxy;Xtreme Gaming;Dire;VERDADEIRO;16;25;4;8;0;0;2;0;414
+7554697;8393767215;29/07/2025;Clavision DOTA2 Masters 2025: Snow-Ruyi;professional;Xtreme Gaming;Nigma Galaxy;Dire;VERDADEIRO;10;48;2;10;0;4;0;2;408
+8599101;8395205594;30/07/2025;Clavision DOTA2 Masters 2025: Snow-Ruyi;professional;Gaimin Gladiators;Team Tidebound;Radiant;VERDADEIRO;24;21;9;2;6;0;2;0;355
+8599101;8395247968;30/07/2025;Clavision DOTA2 Masters 2025: Snow-Ruyi;professional;Team Tidebound;Gaimin Gladiators;Dire;FALSO;26;9;9;2;4;0;2;0;372
+8599101;8395159337;30/07/2025;Clavision DOTA2 Masters 2025: Snow-Ruyi;professional;Team Tidebound;Gaimin Gladiators;Dire;FALSO;28;15;8;2;4;0;2;0;322
+7732977;8395166973;30/07/2025;Clavision DOTA2 Masters 2025: Snow-Ruyi;professional;Xtreme Gaming;BOOM Esports;Dire;FALSO;25;12;8;4;3;0;3;0;434
+7732977;8395122290;30/07/2025;Clavision DOTA2 Masters 2025: Snow-Ruyi;professional;Xtreme Gaming;BOOM Esports;Dire;FALSO;24;10;8;3;2;0;2;0;342
+7554697;8395269156;30/07/2025;Clavision DOTA2 Masters 2025: Snow-Ruyi;professional;Nigma Galaxy;Tundra Esports;Radiant;VERDADEIRO;22;3;8;1;3;0;1;0;213
+7554697;8395216971;30/07/2025;Clavision DOTA2 Masters 2025: Snow-Ruyi;professional;Tundra Esports;Nigma Galaxy;Dire;VERDADEIRO;16;41;2;6;0;0;0;2;280
+9351740;8396708130;31/07/2025;Clavision DOTA2 Masters 2025: Snow-Ruyi;professional;Yakult Brothers;Xtreme Gaming;Radiant;FALSO;17;14;5;10;0;4;0;1;300
+9351740;8396647993;31/07/2025;Clavision DOTA2 Masters 2025: Snow-Ruyi;professional;Xtreme Gaming;Yakult Brothers;Dire;FALSO;26;7;7;1;1;0;2;0;292
+8599101;8398224091;01/08/2025;Clavision DOTA2 Masters 2025: Snow-Ruyi;professional;Gaimin Gladiators;Team Tidebound;Radiant;FALSO;16;32;4;8;0;4;1;2;433
+8599101;8398342136;01/08/2025;Clavision DOTA2 Masters 2025: Snow-Ruyi;professional;Team Tidebound;Gaimin Gladiators;Dire;FALSO;32;29;8;5;0;0;1;1;478
+8261500;8398937779;01/08/2025;Clavision DOTA2 Masters 2025: Snow-Ruyi;professional;Xtreme Gaming;Nigma Galaxy;Radiant;VERDADEIRO;22;18;11;5;6;0;2;1;493
+7554697;8397916998;01/08/2025;Clavision DOTA2 Masters 2025: Snow-Ruyi;professional;Nigma Galaxy;Tundra Esports;Radiant;VERDADEIRO;46;34;11;9;6;5;2;1;649
+7554697;8398117370;01/08/2025;Clavision DOTA2 Masters 2025: Snow-Ruyi;professional;Tundra Esports;Nigma Galaxy;Dire;FALSO;21;11;9;0;6;0;1;0;240
+7554697;8398038407;01/08/2025;Clavision DOTA2 Masters 2025: Snow-Ruyi;professional;Tundra Esports;Nigma Galaxy;Dire;FALSO;31;12;8;3;4;0;2;0;377
+8261500;8399002603;02/08/2025;Clavision DOTA2 Masters 2025: Snow-Ruyi;professional;Xtreme Gaming;Nigma Galaxy;Radiant;VERDADEIRO;29;17;11;8;6;3;2;2;591
+9640842;8399312388;02/08/2025;Clavision DOTA2 Masters 2025: Snow-Ruyi;professional;Team Tidebound;Tundra Esports;Radiant;FALSO;9;34;1;6;0;0;0;1;301
+8291895;8399234434;02/08/2025;Clavision DOTA2 Masters 2025: Snow-Ruyi;professional;Team Tidebound;Tundra Esports;Dire;VERDADEIRO;21;33;6;7;0;2;2;1;511
+8261500;8400594503;03/08/2025;Clavision DOTA2 Masters 2025: Snow-Ruyi;professional;Xtreme Gaming;Team Tidebound;Radiant;FALSO;13;34;3;11;0;6;0;2;325
+8261500;8400528634;03/08/2025;Clavision DOTA2 Masters 2025: Snow-Ruyi;professional;Team Tidebound;Xtreme Gaming;Dire;FALSO;25;12;9;3;2;0;1;1;421
+9640842;8401081219;03/08/2025;Clavision DOTA2 Masters 2025: Snow-Ruyi;professional;Team Tidebound;Tundra Esports;Radiant;VERDADEIRO;38;27;8;5;0;0;2;0;444
+9640842;8400978881;03/08/2025;Clavision DOTA2 Masters 2025: Snow-Ruyi;professional;Team Tidebound;Tundra Esports;Radiant;FALSO;34;34;3;9;0;6;1;1;463
+9640842;8400889142;03/08/2025;Clavision DOTA2 Masters 2025: Snow-Ruyi;professional;Team Tidebound;Tundra Esports;Radiant;VERDADEIRO;25;16;8;3;1;0;2;0;364
+9640842;8400804784;03/08/2025;Clavision DOTA2 Masters 2025: Snow-Ruyi;professional;Team Tidebound;Tundra Esports;Radiant;VERDADEIRO;39;26;8;5;3;0;3;0;452
+9640842;8400702503;03/08/2025;Clavision DOTA2 Masters 2025: Snow-Ruyi;professional;Team Tidebound;Tundra Esports;Radiant;FALSO;17;41;0;7;0;1;0;2;346
+8599101;8423971553;19/08/2025;FISSURE Universe Episode 6;professional;Gaimin Gladiators;BB Team;Radiant;FALSO;22;41;3;8;0;2;1;2;483
+8599101;8424090512;19/08/2025;FISSURE Universe Episode 6;professional;BB Team;Gaimin Gladiators;Dire;FALSO;25;2;6;0;2;0;0;0;211
+9467224;8424273639;19/08/2025;FISSURE Universe Episode 6;professional;Aurora Gaming;Team Tidebound;Radiant;VERDADEIRO;32;11;8;3;4;0;1;1;340
+9467224;8424166675;19/08/2025;FISSURE Universe Episode 6;professional;Team Tidebound;Aurora Gaming;Dire;VERDADEIRO;20;36;6;11;0;6;0;3;541
+2163;8423852677;19/08/2025;FISSURE Universe Episode 6;professional;Team Liquid;PVISION;Radiant;VERDADEIRO;44;25;7;2;4;0;1;1;370
+2163;8423726447;19/08/2025;FISSURE Universe Episode 6;professional;Team Liquid;PVISION;Radiant;FALSO;25;40;5;11;0;6;0;3;535
+9247354;8423633777;19/08/2025;FISSURE Universe Episode 6;professional;Team Falcons;Team Spirit;Radiant;FALSO;25;31;6;7;0;4;1;1;473
+9247354;8423577232;19/08/2025;FISSURE Universe Episode 6;professional;Team Spirit;Team Falcons;Dire;FALSO;36;9;4;3;0;0;1;0;281
+8599101;8424834343;20/08/2025;FISSURE Universe Episode 6;professional;Gaimin Gladiators;Team Spirit;Radiant;FALSO;33;36;7;11;0;6;1;2;521
+8599101;8424907831;20/08/2025;FISSURE Universe Episode 6;professional;Team Spirit;Gaimin Gladiators;Dire;FALSO;32;32;5;6;2;0;2;1;502
+9467224;8425508351;20/08/2025;FISSURE Universe Episode 6;professional;Team Liquid;Aurora Gaming;Dire;FALSO;47;24;10;2;4;0;2;0;460
+9467224;8425420527;20/08/2025;FISSURE Universe Episode 6;professional;Team Liquid;Aurora Gaming;Dire;FALSO;31;18;9;4;2;0;0;2;349
+9467224;8425073790;20/08/2025;FISSURE Universe Episode 6;professional;PVISION;Aurora Gaming;Dire;FALSO;23;9;6;1;2;0;1;0;237
+9467224;8424982505;20/08/2025;FISSURE Universe Episode 6;professional;PVISION;Aurora Gaming;Dire;VERDADEIRO;33;36;6;8;0;0;3;0;447
+9247354;8424955240;20/08/2025;FISSURE Universe Episode 6;professional;Team Falcons;BB Team;Radiant;VERDADEIRO;32;9;6;2;0;0;1;0;312
+9247354;8425019796;20/08/2025;FISSURE Universe Episode 6;professional;BB Team;Team Falcons;Dire;VERDADEIRO;8;31;2;8;0;4;0;1;317
+8599101;8426635790;21/08/2025;FISSURE Universe Episode 6;professional;Gaimin Gladiators;Team Falcons;Radiant;FALSO;1;17;0;2;0;0;0;0;131
+8599101;8426527787;21/08/2025;FISSURE Universe Episode 6;professional;Team Falcons;Gaimin Gladiators;Dire;FALSO;43;16;6;0;0;0;2;0;387
+2163;8426211741;21/08/2025;FISSURE Universe Episode 6;professional;Team Liquid;Team Tidebound;Radiant;VERDADEIRO;32;27;10;3;4;0;2;0;445
+2163;8426280786;21/08/2025;FISSURE Universe Episode 6;professional;Team Tidebound;Team Liquid;Dire;VERDADEIRO;13;26;3;7;0;2;1;1;380
+7119388;8426848835;21/08/2025;FISSURE Universe Episode 6;professional;Team Spirit;BB Team;Radiant;VERDADEIRO;36;18;10;1;4;0;2;0;418
+7119388;8426720694;21/08/2025;FISSURE Universe Episode 6;professional;Team Spirit;BB Team;Radiant;VERDADEIRO;36;22;7;5;2;0;2;1;526
+9640842;8427830780;22/08/2025;FISSURE Universe Episode 6;professional;Team Tidebound;PVISION;Radiant;FALSO;19;28;3;11;0;6;1;3;578
+9640842;8427738970;22/08/2025;FISSURE Universe Episode 6;professional;PVISION;Team Tidebound;Dire;VERDADEIRO;18;29;3;8;0;1;0;3;487
+9467224;8429255374;23/08/2025;FISSURE Universe Episode 6;professional;Aurora Gaming;Team Falcons;Radiant;FALSO;8;34;2;11;0;6;0;2;375
+9467224;8429192902;23/08/2025;FISSURE Universe Episode 6;professional;Aurora Gaming;Team Falcons;Radiant;VERDADEIRO;35;8;7;3;4;0;1;0;317
+9467224;8429118004;23/08/2025;FISSURE Universe Episode 6;professional;Team Falcons;Aurora Gaming;Dire;FALSO;31;15;9;3;5;0;1;0;289
+2163;8429836989;23/08/2025;FISSURE Universe Episode 6;professional;Team Liquid;Team Spirit;Radiant;FALSO;16;39;3;8;0;1;0;2;382
+2163;8429736098;23/08/2025;FISSURE Universe Episode 6;professional;Team Liquid;Team Spirit;Radiant;VERDADEIRO;30;14;8;2;4;0;2;0;297
+2163;8429604795;23/08/2025;FISSURE Universe Episode 6;professional;Team Spirit;Team Liquid;Dire;FALSO;24;27;7;5;2;0;1;1;419
+9247354;8429943971;23/08/2025;FISSURE Universe Episode 6;professional;Team Falcons;PVISION;Radiant;FALSO;16;27;2;7;0;4;0;2;415
+9247354;8430177236;23/08/2025;FISSURE Universe Episode 6;professional;PVISION;Team Falcons;Dire;VERDADEIRO;28;37;5;10;0;4;0;2;557
+9247354;8430058794;23/08/2025;FISSURE Universe Episode 6;professional;PVISION;Team Falcons;Dire;VERDADEIRO;24;24;6;11;1;6;0;5;637
+8255888;8429456455;23/08/2025;FISSURE Universe Episode 6;professional;PVISION;BB Team;Dire;FALSO;33;20;9;3;2;0;2;0;390
+8255888;8429356510;23/08/2025;FISSURE Universe Episode 6;professional;PVISION;BB Team;Dire;FALSO;29;24;11;6;6;0;2;1;525
+2163;8431087766;24/08/2025;FISSURE Universe Episode 6;professional;Team Liquid;Team Falcons;Radiant;FALSO;31;32;5;8;0;0;1;2;472
+2163;8430967684;24/08/2025;FISSURE Universe Episode 6;professional;Team Falcons;Team Liquid;Dire;FALSO;36;30;10;3;4;0;2;1;526
+9247354;8431600692;24/08/2025;FISSURE Universe Episode 6;professional;Team Falcons;Team Spirit;Radiant;VERDADEIRO;35;12;9;6;4;0;2;0;364
+9247354;8431361398;24/08/2025;FISSURE Universe Episode 6;professional;Team Falcons;Team Spirit;Radiant;VERDADEIRO;27;23;7;5;4;0;3;1;495
+9247354;8431501257;24/08/2025;FISSURE Universe Episode 6;professional;Team Spirit;Team Falcons;Dire;VERDADEIRO;12;33;2;11;0;6;0;1;363
